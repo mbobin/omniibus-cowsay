@@ -1,0 +1,9 @@
+#!/bin/sh
+#
+# Perform necessary cowsay removal steps
+# after package is uninstalled.
+#
+
+echo "cowsay has been uninstalled!"
+
+exit 0
